@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Yahoo Fantasy Football Aggregator",
+    "description": "This extension will analyze a yahoo fantasy football page to give useful aggregate information",
+    "version": "1.1",
+  
+    "browser_action": {
+     "default_icon": "icon.png",
+     "default_popup": "popup.html"
+    },
+    "permissions": [
+     "activeTab"
+     ]
+  }

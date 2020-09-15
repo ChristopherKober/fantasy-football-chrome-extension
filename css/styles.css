@@ -1,0 +1,17 @@
+html {
+    padding: 0.5em;
+    background-color: #edeef0;
+    width: 450px;
+    text-align: center;
+    word-break: break-all;
+}
+
+.horizontal-list {
+    display: none;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.team-card {
+    padding: 2em;
+}
